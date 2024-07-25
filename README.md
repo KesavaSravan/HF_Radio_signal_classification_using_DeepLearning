@@ -8,6 +8,7 @@ The "Deep Learning for HF Radio Signal Type Classification" project focuses on d
 - **IQ Samples per Signal:** 2,048
 - **Channels:** 2 (I and Q)
 - **Classes:** 18
+- **Dataset Link:** https://panoradio-sdr.de/radio-signal-classification-dataset/
 
 ### Data Splits
 - **Training Data:**
