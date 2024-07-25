@@ -7,6 +7,7 @@ The "Deep Learning for HF Radio Signal Type Classification" project focuses on d
 - **Total Signals:** 172,800
 - **IQ Samples per Signal:** 2,048
 - **Channels:** 2 (I and Q)
+- **Clsses:** 18
 
 ### Data Splits
 - **Training Data:**
